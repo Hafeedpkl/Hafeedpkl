@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hafeedpkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafeedpkl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-hafeed-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed hafeed p" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/muhammed-hafeed-p](https://www.linkedin.com/in/muhammed-hafeed-p-a3870b204/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed hafeed p" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hafeedpkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hafeedpkl" height="30" width="40" /></a>
 <a href="https://dribbble.com/hafeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hafeed" height="30" width="40" /></a>
 <a href="https://medium.com/@hafeed pkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hafeed pkl" height="30" width="40" /></a>
