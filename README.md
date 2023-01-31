@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hafeedpkl
 - 👀 I’m interested in coding ,developing, gaming ,designing
 - 🌱 I’m currently learning Mobile App development using flutter
-- 💞️ I’m looking to collaborate on flutter based proects
+- 💞️ I’m looking to collaborate on flutter based projects
 - 📫 How to reach me at hafeedpallikkal@gmail.com
 
 <!---
